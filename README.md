@@ -41,7 +41,7 @@ All three are synthetic, so they carry no privacy or licensing baggage.
 ## Run it
 
 ```bash
-git clone https://github.com/saineshnakra/automated-data-analyst.git
+git clone https://github.com/nikithabellary/AIDA.git
 cd automated-data-analyst
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
