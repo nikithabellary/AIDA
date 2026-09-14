@@ -1,21 +1,9 @@
-# ADA: Automated Data Analyst
+# AIDA: Automated Data Analyst
 
-[![CI](https://github.com/saineshnakra/automated-data-analyst/actions/workflows/ci.yml/badge.svg)](https://github.com/saineshnakra/automated-data-analyst/actions/workflows/ci.yml)
-[![Python](https://img.shields.io/badge/Python-3.11%2B-3776ab?logo=python&logoColor=white)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-20a779.svg)](https://github.com/saineshnakra/automated-data-analyst/blob/main/LICENSE)
 
 **Upload a CSV or Excel file. Get a dashboard, an executive brief, anomaly
 flags, a forecast, and answers to plain-English questions — with the calculation
 shown under every number.**
-
-[Live demo](https://automated-data-analyst.streamlit.app/) ·
-[Documentation](https://github.com/saineshnakra/automated-data-analyst/tree/main/docs) ·
-[Roadmap](https://github.com/saineshnakra/automated-data-analyst/blob/main/ROADMAP.md) ·
-[Contributing](https://github.com/saineshnakra/automated-data-analyst/blob/main/CONTRIBUTING.md)
-
-**Source:** [github.com/saineshnakra/automated-data-analyst](https://github.com/saineshnakra/automated-data-analyst)
-
-![ADA turns CSV and Excel files into decision-ready business dashboards](https://raw.githubusercontent.com/saineshnakra/automated-data-analyst/main/assets/ada-social-preview.png)
 
 ## What it does
 
@@ -33,19 +21,13 @@ Limits: 25 MB per file, 250,000 rows analyzed. Formats: `.csv`, `.xlsx`, `.xlsm`
 
 ### Nothing to upload? Try a sample
 
-Pick **Try a sample dataset** in the app, or download one from [`samples/`](https://github.com/saineshnakra/automated-data-analyst/tree/main/samples):
-
-| Sample | What it shows |
-|---|---|
-| [SaaS subscriptions](https://github.com/saineshnakra/automated-data-analyst/blob/main/samples/saas-subscriptions.csv) | A real revenue drop the anomaly radar finds, and a forecast that beats no-change |
-| [Support tickets](https://github.com/saineshnakra/automated-data-analyst/blob/main/samples/support-tickets.csv) | No revenue column, and a forecast honest enough to say it is useless |
-| [Ecommerce orders](https://github.com/saineshnakra/automated-data-analyst/blob/main/samples/ecommerce-orders.csv) | Returns as negative rows, so totals cope with mixed signs |
+Pick **Try a sample dataset** in the app, or download one from samples
 
 All three are synthetic, so they carry no privacy or licensing baggage.
 
 ### Ask a business question. Get the number and its calculation.
 
-![Ask ADA a plain-English question and receive a pandas-backed answer with its calculation](https://raw.githubusercontent.com/saineshnakra/automated-data-analyst/main/assets/readme/ask-ada.gif)
+![Ask ADA a plain-English question and receive a pandas-backed answer with its calculation](https://github.com/nikithabellary/AIDA/blob/fb2ba3ff532813bd7769f36ce0eab8580f8e0b44/assets/readme/ask-ada.gif)
 
 ### Focus on one segment. The whole analysis regroups.
 
