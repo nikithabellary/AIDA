@@ -31,11 +31,11 @@ All three are synthetic, so they carry no privacy or licensing baggage.
 
 ### Focus on one segment. The whole analysis regroups.
 
-![Drill into one business segment and automatically regroup the dashboard by the next useful dimension](https://raw.githubusercontent.com/saineshnakra/automated-data-analyst/main/assets/readme/drilldown.gif)
+![Drill into one business segment and automatically regroup the dashboard by the next useful dimension](https://github.com/nikithabellary/AIDA/blob/ec77ff4a99351faf7123ecf506de43c1cf8e6227/assets/readme/drilldown.gif)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saineshnakra/automated-data-analyst/main/assets/readme/anomaly-forecast.png" width="49%" alt="ADA dashboard showing anomaly markers, a guarded forecast, movement waterfall, and segment heatmap">
-  <img src="https://raw.githubusercontent.com/saineshnakra/automated-data-analyst/main/assets/readme/evidence-ledger.png" width="49%" alt="ADA evidence ledger showing calculations, anomalies, concentration, correlation, and detected schema">
+  <img src="https://github.com/nikithabellary/AIDA/blob/ec77ff4a99351faf7123ecf506de43c1cf8e6227/assets/readme/anomaly-forecast.png" width="49%" alt="ADA dashboard showing anomaly markers, a guarded forecast, movement waterfall, and segment heatmap">
+  <img src="https://github.com/nikithabellary/AIDA/blob/ec77ff4a99351faf7123ecf506de43c1cf8e6227/assets/readme/evidence-ledger.png" width="49%" alt="ADA evidence ledger showing calculations, anomalies, concentration, correlation, and detected schema">
 </p>
 
 ## Run it
