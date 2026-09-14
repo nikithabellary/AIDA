@@ -71,9 +71,3 @@ appear in it. Nothing else from a cell does. Model-generated code is never
 executed.
 
 - *Yours could be here.*
-
-## License
-
-[MIT](https://github.com/saineshnakra/automated-data-analyst/blob/main/LICENSE) · Copyright (c) 2024 Sainesh Nakra
-
-Originally built at [github.com/saineshnakra/automated-data-analyst](https://github.com/saineshnakra/automated-data-analyst).
