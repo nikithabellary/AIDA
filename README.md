@@ -70,44 +70,6 @@ segment it is about, a segment label such as a customer or product name can
 appear in it. Nothing else from a cell does. Model-generated code is never
 executed.
 
-Full details: [Privacy](https://github.com/saineshnakra/automated-data-analyst/blob/main/docs/privacy.md) · [SECURITY.md](https://github.com/saineshnakra/automated-data-analyst/blob/main/SECURITY.md)
-
-## Documentation
-
-| Page | What you get |
-|---|---|
-| [Concepts](https://github.com/saineshnakra/automated-data-analyst/blob/main/docs/concepts.md) | The words ADA uses: measure, segment, period, evidence, plan |
-| [How it works](https://github.com/saineshnakra/automated-data-analyst/blob/main/docs/how-it-works.md) | Upload to dashboard, step by step |
-| [Architecture](https://github.com/saineshnakra/automated-data-analyst/blob/main/docs/architecture.md) | Which file does what, and why |
-| [Reference](https://github.com/saineshnakra/automated-data-analyst/blob/main/docs/README.md#reference) | One page per pipeline step |
-| [Development](https://github.com/saineshnakra/automated-data-analyst/blob/main/docs/development.md) | Setup, tests, CI, conventions |
-| [FAQ](https://github.com/saineshnakra/automated-data-analyst/blob/main/docs/faq.md) | Short answers to common questions |
-
-For the design story behind the project, read
-[I Built an AI Data Analyst That Tells You When It Hallucinates](https://medium.com/@saineshnakra/i-built-an-ai-data-analyst-that-tells-you-when-it-hallucinates-6051609c3f4a).
-
-## Contributing
-
-Good places to start: a new question shape for Ask ADA, a new deterministic
-metric, schema-detection fixtures, chart accessibility, adversarial test data.
-
-Read [CONTRIBUTING.md](https://github.com/saineshnakra/automated-data-analyst/blob/main/CONTRIBUTING.md), browse the
-[good first issues](https://github.com/saineshnakra/automated-data-analyst/labels/good%20first%20issue),
-or pick something from the [roadmap](https://github.com/saineshnakra/automated-data-analyst/blob/main/ROADMAP.md).
-
-Every new recommendation needs a test and the calculation that supports it.
-
-## Building on ADA?
-
-A link back to this repo is appreciated. If you've shipped something with it,
-[open an issue](https://github.com/saineshnakra/automated-data-analyst/issues/new) and I'll list it here.
-
-ADA is MIT licensed, so you are free to use, change and ship it — commercially
-too. The only thing the licence asks is that the copyright notice travels with
-the code.
-
-**Built with ADA**
-
 - *Yours could be here.*
 
 ## License
